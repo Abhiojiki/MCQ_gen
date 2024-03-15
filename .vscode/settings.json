@@ -1,0 +1,5 @@
+{
+    "CodeGPT.apiKey": "Groq",
+    "CodeGPT.Autocomplete.provider": "Ollama - deepseek-coder:base",
+    "CodeGPT.Autocomplete.enabled": false
+}
